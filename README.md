@@ -93,15 +93,15 @@ LightGBM excels at capturing non-linear relationships in high-velocity tabular d
 ```bash
 git clone https://github.com/MosesBargueKortuJr/skyflow-ai.git
 cd skyflow-ai
-
+```
 ### 2. Install dependencies
 ``` bash
 pip install -r requirements.txt
-
+```
 ### 3. Launch the Real-Time Dashboard
 ``` bash
 streamlit run app.py
-
+```
 ### 📁 Project Structure
 ``` bash 
 skyflow-ai/
@@ -114,7 +114,7 @@ skyflow-ai/
 ├── requirements.txt          # 📦 All Python dependencies
 ├── README.md
 └── ...
-
+```
 ### Contributing
 Contributions, bug reports, and feature requests are highly welcome!
 
