@@ -137,5 +137,5 @@ See the LICENSE file for full details.
 
 ---
 <div align="center">
-**Made with ❤️ for smarter travel experiences**
+*Made with ❤️ for smarter travel experiences*
 </div>
