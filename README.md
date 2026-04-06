@@ -130,12 +130,11 @@ See the LICENSE file for full details.
 ## 👨‍💻 Author
 
 **Moses Bargue Kortu Jr.**
-
 <div align="center">
-*Supervised Machine Learning • Real-Time Analytics • Travel Tech*
+Supervised Machine Learning • Real-Time Analytics • Travel Tech
 </div>
 
 ---
 <div align="center">
-*Made with ❤️ for smarter travel experiences*
+Made with ❤️ for smarter travel experiences
 </div>
