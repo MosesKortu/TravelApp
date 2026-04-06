@@ -123,10 +123,7 @@ Contributions, bug reports, and feature requests are highly welcome!
 - Open a new Issue
 - Submit a Pull Request
 ---
-### 📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for full details.
----
+
 ## 👨‍💻 Author
 
 **Moses Bargue Kortu Jr.**
