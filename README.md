@@ -129,5 +129,5 @@ See the LICENSE file for full details.
 Moses Bargue Kortu Jr.
 Supervised Machine Learning • Real-Time Analytics • Travel Tech
 
-
+---
 Made with ❤️ for smarter travel experiences
