@@ -94,3 +94,29 @@ LightGBM excels at capturing non-linear relationships in high-velocity tabular d
 git clone https://github.com/MosesBargueKortuJr/skyflow-ai.git
 cd skyflow-ai
 
+### 2. Install dependencies
+``` bash
+pip install -r requirements.txt
+
+### 3. Launch the Real-Time Dashboard
+``` bash
+streamlit run app.py
+
+### 📁 Project Structure
+``` bash 
+skyflow-ai/
+├── app.py                    # 🎨 Main Streamlit dashboard (real-time predictions)
+├── engine.py                 # ⚙️ Automated model training & artifact management
+├── data_generator.py         # 🔬 Synthetic dataset generator (10k sessions)
+├── models/                   # 💾 Saved LightGBM model artifacts (.joblib)
+│   ├── lightgbm_model.joblib
+│   └── scaler.joblib
+├── requirements.txt          # 📦 All Python dependencies
+├── README.md
+└── ...
+
+### Contributing
+Contributions, bug reports, and feature requests are highly welcome!
+
+Open a new Issue
+Submit a Pull Request
