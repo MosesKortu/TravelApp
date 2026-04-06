@@ -118,5 +118,16 @@ skyflow-ai/
 ### Contributing
 Contributions, bug reports, and feature requests are highly welcome!
 
-Open a new Issue
-Submit a Pull Request
+- Open a new Issue
+- Submit a Pull Request
+
+### 📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for full details.
+
+### 👨‍💻 Author
+Moses Bargue Kortu Jr.
+Supervised Machine Learning • Real-Time Analytics • Travel Tech
+
+
+Made with ❤️ for smarter travel experiences
