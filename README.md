@@ -127,11 +127,15 @@ Contributions, bug reports, and feature requests are highly welcome!
 This project is licensed under the MIT License.
 See the LICENSE file for full details.
 ---
-### 👨‍💻 Author
-Moses Bargue Kortu Jr.
-Supervised Machine Learning • Real-Time Analytics • Travel Tech
+## 👨‍💻 Author
+
+**Moses Bargue Kortu Jr.**
+
+<div align="center">
+*Supervised Machine Learning • Real-Time Analytics • Travel Tech*
+</div>
 
 ---
 <div align="center">
-*Made with ❤️ for smarter travel experiences*
+**Made with ❤️ for smarter travel experiences**
 </div>
