@@ -93,34 +93,4 @@ LightGBM excels at capturing non-linear relationships in high-velocity tabular d
 ```bash
 git clone https://github.com/MosesBargueKortuJr/skyflow-ai.git
 cd skyflow-ai
-2. Install dependencies
-Bashpip install streamlit pandas joblib numpy lightgbm scikit-learn
-3. Launch the Real-Time Dashboard
-Bashstreamlit run app.py
-First run behavior:
-The system will automatically generate 10,000 synthetic sessions, train the LightGBM model, save the .joblib artifacts, and launch the interactive UI.
 
-📁 Project Structure
-textskyflow-ai/
-├── app.py                 # Streamlit dashboard
-├── engine.py              # Automated training & model management
-├── data_generator.py      # Synthetic dataset creation
-├── models/                # Saved model artifacts (.joblib)
-├── requirements.txt
-├── README.md
-└── ...
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
-📝 License
-This project is licensed under the MIT License — see the LICENSE file for details.
-
-👨‍💻 Author
-Moses Bargue Kortu Jr.
-Supervised Machine Learning | Real-Time Analytics | Travel Tech
-
-
-Made with ❤️ for smarter travel experiences
-
-```
